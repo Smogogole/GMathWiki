@@ -22,13 +22,12 @@ Merk ook op dat ik echter well all mijn notas in het Engels pak.
 Een paar heel belangenrijke punten om aan te kaarten in verband met mijn notas:
 
 - **De notas kunnen en zullen fouten bevatten**: Aangezien ik heel veel notas heb, wetenschap een heel gevoelige discipline is en omdat ik simpelweg menselijk ben, is het gegarandeerd dat er fouten hier en daar zullen staan. Moest je deze vinden, aarzel dan niet om dat aan mij te communiceren en ik zal dan weer de notas actualiseren.
-## Hoe de notas downloaden en openen
+## Hoe de notas downloaden, openen en actualiseren
 
-De minst technische manier om mijn notas te downloaden als je niet tech-savvy bent is om de op de groene "code" knop te drukken, en daarna de optie "download .zip" te kiezen. Vervolgens extraheer je dit .zip document (als je niet weet hoe dat moet no worries, zoek het effen op, het is een zeer zeer simpel iets). Eens je .zip geëxtraheerd is, moet je de software Obsidian gaan downloaden. Je klikt op create new vault, en kiest vervolgens bij "vault location" het net geëxtraheerde dossier. Dit zal ervoor zorgen dat obsidian al de net geëxtraheerde documenten als aanwezig in de vault zal zien. 
+De minst technische manier om mijn notas te downloaden als je niet tech-savvy bent is om de op de groene "code" knop te drukken, en daarna de optie "download .zip" te kiezen. Vervolgens extraheer je dit .zip document (als je niet weet hoe dat moet no worries, zoek het effen op, het is een zeer zeer simpel iets). Eens je .zip geëxtraheerd is, moet je de software Obsidian gaan downloaden. Je klikt op "open folder as vault", en kiest vervolgens bij "vault location" het net geëxtraheerde dossier. Dit zal ervoor zorgen dat obsidian al de net geëxtraheerde documenten als aanwezig in de vault zal zien. Je bent bijna klaar, Obsidian heeft nu al mijn notas normaal, maar mijn instellingen nog niet. Om dat te fixen, zal je opmerken dat je nog een extra zip heb gedownload die in het geëxtraheerd dossiertje zit, namelijk ".obsidian.zip". Je zal ook opmerken dat er plots in het geëxtraheerd dossier ook een ander normaal dossier genaamd ".obsidian" is ontstaan. De laatste stap is dus de inhoud van ".obsidian" vervangen met de inhoud van ".obsidian.zip". Eens dat dat gedaan is, is je download klaar en de notas klaar om te bekijken!
 
-
+Om vervolgens geüpdatet notas te krijgen, zal je jammer genoeg all de documenten moeten verwijderen en simpelweg de nieuwere online downloaden en er terug opzetten. Is bestaat een veeeeeel snellere wijze, maar das gewoon veel uitleg als je niet totaal bekend bent met het terminaal van je computer.
 ## Structuur van de vault 
-
 
 
 

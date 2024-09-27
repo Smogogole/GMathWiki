@@ -1,3 +1,5 @@
+
+```
 [
 	// Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
@@ -283,3 +285,7 @@
 	// Misc
 	{trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}'(${1:x})${2:h} + ${0:f}''(${1:x}) \\frac{${2:h}^{2}}{2!} + \\dots$3", options: "mA"},
 ]
+
+```
+
+

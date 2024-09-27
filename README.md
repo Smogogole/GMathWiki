@@ -7,8 +7,15 @@ Dit is mijn Obsidian Vault waar je al mijn persoonlijke notas kan terugvinden. D
 
 Merk op dat ik echter well all mijn notas in het Engels pak.
 
+## DISCLAIMERS
+
+Lijst van belangenrijke disclaimers
 ## Hoe de notas downloaden en openen
+
+Voor nu geen tutorial, wees gewoon is tech-savvy
 ## Structuur van de vault 
+
+
 
 
 

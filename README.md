@@ -24,7 +24,9 @@ Een paar heel belangenrijke punten om aan te kaarten in verband met mijn notas:
 - **De notas kunnen en zullen fouten bevatten**: Aangezien ik heel veel notas heb, wetenschap een heel gevoelige discipline is en omdat ik simpelweg menselijk ben, is het gegarandeerd dat er fouten hier en daar zullen staan. Moest je deze vinden, aarzel dan niet om dat aan mij te communiceren en ik zal dan weer de notas actualiseren.
 ## Hoe de notas downloaden en openen
 
-De minst technische manier om mijn notas te downloaden als je niet tech-savvy bent is
+De minst technische manier om mijn notas te downloaden als je niet tech-savvy bent is om de op de groene "code" knop te drukken, en daarna de optie "download .zip" te kiezen. Vervolgens extraheer je dit .zip document (als je niet weet hoe dat moet no worries, zoek het effen op, het is een zeer zeer simpel iets). Eens je .zip geëxtraheerd is, moet je de software Obsidian gaan downloaden. Je klikt op create new vault, en kiest vervolgens bij "vault location" het net geëxtraheerde dossier. Dit zal ervoor zorgen dat obsidian al de net geëxtraheerde documenten als aanwezig in de vault zal zien. 
+
+
 ## Structuur van de vault 
 
 

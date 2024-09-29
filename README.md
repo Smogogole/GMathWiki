@@ -7,7 +7,7 @@ Dit is mijn Obsidian Vault waar je al mijn persoonlijke nota's kan terugvinden. 
 
 In de rest van deze README kan je alle nodige relevante maar belangenrijke informatie terugvinden in verband met het gebruik van de nota's en de nota's zelf. 
 
-![Screenshot from 2024-09-29 14-49-16](https://github.com/user-attachments/assets/afce8ae2-df2c-44f5-82c6-5c95cd52954f)
+![Screenshot from 2024-09-29 14-49-16](https://github.com/user-attachments/assets/afce8ae2-df2c-44f5-82c6-5c95cd52954f| 200)
 
 De eerste belangenrijke opmerking die wel gemaakt moet worden is dat all deze nota's niet zijn opgeslagen in een .pdf, .txt of .word formaat, maar in een .md formaat. Dat staat voor "Markdown", wat een andere vorm van text encodering is. Dit betekent voor jullie eigenlijk alleen maar dat als je de document gewoon zomaar opent, dat je een lelijk document zal krijgen.
 

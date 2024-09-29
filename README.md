@@ -57,6 +57,9 @@ Merk op dat er 4 dossiertjes zijn in de vault:
 
 ![Screenshot from 2024-09-27 22-09-26|500](https://github.com/user-attachments/assets/b7aa28fc-4ce4-42ef-96ad-d431e2b3f813)
 
+![Screenshot from 2024-09-29 20-06-57](https://github.com/user-attachments/assets/225077d8-3aef-4d1c-adb5-6d25ede8f94f)
+
+
 ![Screenshot from 2024-09-29 14-49-16|500](https://github.com/user-attachments/assets/14aaff8c-2959-42bd-b502-719c75111dcc)
 
 

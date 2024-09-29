@@ -53,6 +53,12 @@ Merk op dat er 4 dossiertjes zijn in de vault:
 	- Sufficiencies: Zwakkere voorwaarden voor de theorie of bewijzen dat bepaalde objecten voldoen aan de theorie
 	- Justifications: De voorkennis of nodige theorie om deze theorie goed te definiëren
 
+## Previews van de notas na installatie
+
+
+
+
+
 
 
 

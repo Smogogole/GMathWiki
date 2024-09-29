@@ -8,7 +8,7 @@ Date created: 2023-11-14 11:37
 Tags: #Type/Object #Topic/Real_Analysis #Topic/Topology
 
 Types: _Not applicable_
-Examples: [[Euclidian metric]]
+Examples: [[Euclidian metric]], [[Taxicab metric]], [[Sup norm metric]]
 Construction: [[Metric spaces]], [[Artificial discrete metric space]], [[Open balls]]
 Generalization: [[Functions]]
 

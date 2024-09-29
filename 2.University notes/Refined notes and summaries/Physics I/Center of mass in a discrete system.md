@@ -12,7 +12,7 @@ Properties: _Not applicable_
 
 Justifications: _Not applicable_
 Specializations: _Not applicable_
-Generalization: [[Center of mass in a continuous system with uniform density]]
+Generalization: [[Center of mass in a continuous 3 dimensional system with uniform density]]
 
 
 ---

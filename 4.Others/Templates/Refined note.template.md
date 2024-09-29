@@ -3,6 +3,7 @@ Date created: "{{date}} {{time}}"
 tags:
   - Type/Refined_Note
 ---
+
 ---
 
 Types: %%_Objects/notions of type `object`/`notion` with additional restrictions._%%
@@ -14,4 +15,9 @@ Specializations: %%_Reformulations/proofs of instances of `statement`._%%
 Generalization: %%_Abstractions of `object`/`notion`._%%
 
 ---
+
+
+
+
+
 

@@ -55,6 +55,9 @@ Merk op dat er 4 dossiertjes zijn in de vault:
 
 ## Previews van de notas na installatie
 
+![Screenshot from 2024-09-27 22-09-26](https://github.com/user-attachments/assets/b7aa28fc-4ce4-42ef-96ad-d431e2b3f813)
+
+![Screenshot from 2024-09-29 14-49-16](https://github.com/user-attachments/assets/14aaff8c-2959-42bd-b502-719c75111dcc)
 
 
 

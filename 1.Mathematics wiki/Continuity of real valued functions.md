@@ -17,7 +17,7 @@ Generalization: [[Continuity (Metric space)]], [[Continuity (Topological)]]
 Properties: [[Function arithmetic preserves continuity]], [[Continuity of ax and xp]], [[Continuity of real valued polynomials]], [[Topological continuity is preserved under composition]]
 Sufficiencies: _Not applicable_
 Equivalences: [[Sequential definition of continuity of real valued functions]]
-Justifications: [[Limit of a function at a point]]
+Justifications: [[Limit of a real valued function at a point]]
 
 ---  
 

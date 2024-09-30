@@ -17,7 +17,7 @@ Generalization: [[Measure]]
 Properties: [[Alpha-length is finitely additive]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
-Justifications: [[Limit of a function at a point]], [[Alpha-length of intervals are well-defined]]
+Justifications: [[Limit of a real valued function at a point]], [[Alpha-length of intervals are well-defined]]
 
 ---
 

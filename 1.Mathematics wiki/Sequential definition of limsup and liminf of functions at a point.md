@@ -16,7 +16,7 @@ Generalization: _Not applicable_
 
 Properties: _Not applicable_
 Sufficiencies: _Not applicable_
-Equivalences: [[Limit of a function at a point]]
+Equivalences: [[Limit of a real valued function at a point]]
 Justifications: [[Limsup and liminf of functions at a point]], [[Limit of a sequence]], [[Equivalence between the sequential and the classic definition of the limsup and liminf of a function at a point]]
 
 ---

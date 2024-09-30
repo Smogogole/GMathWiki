@@ -10,7 +10,7 @@ cssclasses:
 
 ---
 
-Proved by: [[Sequential definition of limit of a function at a point]], [[Limit of a function at a point]], [[Axiom of choice]]
+Proved by: [[Sequential definition of limit of a function at a point]], [[Limit of a real valued function at a point]], [[Axiom of choice]]
 References: _Not applicable_
 Justifications: [[Convergence of sequences]]
 

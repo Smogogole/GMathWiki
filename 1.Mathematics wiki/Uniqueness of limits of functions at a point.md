@@ -11,7 +11,7 @@ cssclasses:
 
 Proved by: [[Equivalence between the sequential and the classic definition of the limit of a function at a point]]
 References: _Not applicable_
-Justifications: [[Limit of a function at a point]], [[Sequential definition of limit of a function at a point]]
+Justifications: [[Limit of a real valued function at a point]], [[Sequential definition of limit of a function at a point]]
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

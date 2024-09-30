@@ -10,7 +10,7 @@ cssclasses:
 
 Proved by: [[Limsup and liminf of functions at a point]]
 References: _Not applicable_
-Justifications: [[Limit of a function at a point]], [[Adherent points]]
+Justifications: [[Limit of a real valued function at a point]], [[Adherent points]]
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

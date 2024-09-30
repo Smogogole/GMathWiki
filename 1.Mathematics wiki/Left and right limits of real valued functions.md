@@ -14,10 +14,10 @@ Examples: _Not applicable_
 Construction: _Not applicable_
 Generalization: _Not applicable_
 
-Properties: [[Real valued function is continuous at a point if and only if the left and right limit agree]]
+Properties: [[Real valued function is continuous at a point if and only if the left and right limit agree with the function value at that point]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
-Justifications: [[Limit of a function at a point]]
+Justifications: [[Limit of a real valued function at a point]]
 
 ---
 

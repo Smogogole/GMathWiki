@@ -17,7 +17,7 @@ Generalization: _Not applicable_
 Properties: _Not applicable_
 Sufficiencies: _Not applicable_
 Equivalences: [[Sequential definition of limsup and liminf of functions at a point]]
-Justifications: [[Existence of least upper bounds]], [[Uniqueness of least upper bounds]], [[Limit of a function at a point]], [[Supremum and infimum of sequences]]
+Justifications: [[Existence of least upper bounds]], [[Uniqueness of least upper bounds]], [[Limit of a real valued function at a point]], [[Supremum and infimum of sequences]]
 
 ---
 

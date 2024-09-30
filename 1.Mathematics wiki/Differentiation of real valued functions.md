@@ -17,7 +17,7 @@ Generalization: _Not applicable_
 Properties: [[Differentiability at a point implies continuity at that point for real valued functions]], [[Laws of differentiation of real valued functions]], [[Chain rule for differentiation of real valued functions]]
 Sufficiencies: _Not applicable_
 Equivalences: [[Newton's approximation]]
-Justifications: :[[Limit of a function at a point]], [[Limit points and isolated points of a set]]
+Justifications: :[[Limit of a real valued function at a point]], [[Limit points and isolated points of a set]]
 
 ---
 

@@ -14,7 +14,7 @@ Examples: _Not applicable_
 Construction: [[General linear group]]
 Generalization: _Not applicable_
 
-Properties: [[Left and right inverse of a matrix are the same if the matrix is square]], [[Left invertible square matrices are right invertible and vice verse]], [[Invertible matrices (Properties)]], [[Elementary matrices are invertible]], [[Invertible matrices can we written as a product of inverses of elementary matrices]]
+Properties: [[Left and right inverse of a matrix are the same if the matrix is square]], [[Left invertible square matrices are right invertible and vice versa]], [[Invertible matrices (Properties)]], [[Elementary matrices are invertible]], [[Invertible matrices can we written as a product of inverses of elementary matrices]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
 Justifications: [[Matrices]], [[Matrix multiplication]]

@@ -12,7 +12,7 @@ cssclasses:
 
 Proved by: _Not applicable_
 References: _Not applicable_
-Justifications: [[Elementary row operations]], [[Left and right inverse of a matrix]]   
+Justifications: [[Elementary matrices]], [[Left and right inverse of a matrix]]   
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

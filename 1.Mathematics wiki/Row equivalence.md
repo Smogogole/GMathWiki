@@ -17,7 +17,7 @@ Generalization: _Not applicable_
 Properties: [[Every matrix is row equivalent to some row reduced echelon form matrix]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
-Justifications: [[Elementary row operations]], [[Matrix multiplication]], [[Matrices]]
+Justifications: [[Elementary matrices]], [[Matrix multiplication]], [[Matrices]]
 
 ---
 

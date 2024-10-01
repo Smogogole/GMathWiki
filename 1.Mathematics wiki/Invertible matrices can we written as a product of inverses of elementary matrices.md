@@ -12,7 +12,7 @@ cssclasses:
 
 Proved by: [[Elementary matrices are invertible]]
 References: _Not applicable_
-Justifications: [[Left and right inverse of a matrix]], [[Elementary row operations]], [[Row equivalence]]  
+Justifications: [[Left and right inverse of a matrix]], [[Elementary matrices]], [[Row equivalence]]  
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

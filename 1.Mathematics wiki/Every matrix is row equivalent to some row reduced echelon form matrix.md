@@ -10,7 +10,7 @@ cssclasses:
 
 ---
 
-Proved by:[[Elementary row operations]]
+Proved by:[[Elementary matrices]]
 References: _Not applicable_
 Justifications: [[Row and reduced row echelon matrix]], [[Matrices]]   
 

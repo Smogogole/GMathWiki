@@ -8,7 +8,7 @@ Date created: 2023-10-24 16:17
 Tags: #Type/Object #Topic/Logic #Topic/Abstract_Algebra 
 
 Types: _Not applicable_
-Examples: [[Addition]], [[Multiplication]], [[Elementary row operations]], [[Division]], [[Exponentiation]], [[Subtraction]]
+Examples: [[Addition]], [[Multiplication]], [[Elementary matrices]], [[Division]], [[Exponentiation]], [[Subtraction]]
 Construction: [[Groups]]
 Generalization: [[Operations]], [[Functions]]
 

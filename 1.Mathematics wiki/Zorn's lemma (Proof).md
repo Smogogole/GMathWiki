@@ -18,7 +18,9 @@ Generalizations: _Not applicable_
 
 ---
 
-**Warning: the proof is very long, good luck.**
+**WARNING: the proof is very long and painfull, good luck.**
+
+---
 
 > [!quote] Proof: Zorn's lemma
 > We split this proof up in two big parts. We first start by proving a lemma and then proceed to use it to prove Zorn's lemma. 

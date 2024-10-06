@@ -12,7 +12,7 @@ cssclasses:
 
 Proved by: [[Newton's approximation]], [[Absolute value]]
 References: _Not applicable_
-Justifications: _Not applicable_
+Justifications: [[Differentiation of real valued functions]]
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

@@ -12,7 +12,7 @@ Examples: _Not applicable_
 Properties: _Not applicable_
 
 Justifications: _Not applicable_
-Specializations: [[Circular kinematics]]
+Specializations: [[Coordinate system for circular kinematics]]
 Generalization: _Not applicable_
 
 ---

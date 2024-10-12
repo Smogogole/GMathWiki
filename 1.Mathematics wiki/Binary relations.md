@@ -1,10 +1,15 @@
-
 ---
-
 mathLink: auto
+Date created: 2024-10-09 14:29
+tags:
+  - Type/Object
+  - Topic/Logic
+  - Topic/Set_Theory
+cssclasses:
+---
 
 ---
-Date created: 2023-10-23 19:01
+
 Tags: #Type/Object #Topic/Logic #Topic/Abstract_Algebra
 
 Types: [[Equivalence relationships]], [[Functions]]
@@ -38,9 +43,6 @@ R^{-1}&=\{(b,a)\in B\times A:(a,b)\in A\times B\}\\
 S\circ R&=\{(a, c) \in A \times C : ∃ b ∈ B((a, b) ∈ R \land (b, c) ∈ S)\}
 \end{align}$$
 
-Now one can notice that if every $a$ in the domain of the has at most one $b$ in $B$ such that $(a,b)\in R$, then we essentially have a [[Functions|function]]. And this would look like:
-$$f:A\rightarrow B:a\mapsto b \land(a,b)\in R$$
-More formally, $R$ is actually the [[Graph (functions)|graph]] of a function $f$.
 
 
 

@@ -1,11 +1,13 @@
-
 ---
-
 mathLink: auto
+Date created: 2024-10-09 14:27
+tags:
+  - Type/Object
+  - Topic/Set_Theory
+cssclasses:
+---
 
 ---
-Date created: 2023-10-22 10:29
-Tags: #Type/Object #Topic/Set_Theory  
 
 Types: [[Inverse functions]], [[Partial functions]]
 Examples: [[Inclusion and identity maps]], [[Coordinate functions]], [[Empty functions]]
@@ -19,12 +21,10 @@ Justifications: [[Function equality is well defined]]
 
 ---  
 
-We can define functions as follows:
-
 > [!quote] Definition: Function
-> Let $X$, $Y$ be [[Sets|sets]], and let $P(x,y)$ be a property pertaining to an object $x\in X$ and an object $y \in Y$, such that for every $x\in X$, there is exactly one $y\in Y$ for which $P(x,y)$ is true. Then we define the function/map/transformation $f: X \rightarrow Y$ defined by $P$ on the domain $X$ and range $Y$ to be the object which, given any input $x\in X$, assigns an output $f(x) \in Y$, defined to be the unique object $f(x)$ for which $P(x,f(x))$ is true. Thus for any $x\in X$ and $y \in Y$ we have: $$y=f(x) \iff P(x,y)\;\text{is true}$$
+>Let $X$ and $Y$ be sets, and let $R$ be a relation on $X\times Y$ such that for every $x\in X$ there exists exactly one $y\in Y$ for which $$ xRy $$We then write $$ f:X\to Y: x\mapsto f(x) $$With $xRf(x)$
 
-Defining function equality can be a bit more sensitive, to avoid paradoxal situations one might want to take this definition on as an axiom$^{1}$.
+We define function equality as
 
 >[!quote] Definition: Function equality
 >We define two functions $f,g:X\rightarrow Y$ with the same domain and range to be equal if and only if $\forall x\in X:f(x)=g(x)$.

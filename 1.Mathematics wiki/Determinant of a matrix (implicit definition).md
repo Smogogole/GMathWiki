@@ -17,7 +17,7 @@ Generalization: _Not applicable_
 Properties: [[Determinant of a matrix (Properties)]]
 Sufficiencies: _Not applicable_
 Equivalences: [[Determinant of a matrix (explicit permutative definition)]]
-Justifications: [[Uniqueness of the determinant]], [[Determinant of a matrix (explicit permutative definition)]], [[Elementary matrices]]
+Justifications: [[Uniqueness of the determinant map]], [[Determinant of a matrix (explicit permutative definition)]], [[Elementary matrices]]
 
 ---
 

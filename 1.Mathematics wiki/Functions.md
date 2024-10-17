@@ -43,6 +43,3 @@ To finish of we can also subject [[Sets]] to functions or [[Inverse functions]]:
 
 Note that $f$ doesn't have to be [[Inverse functions|invertible]] in order for $f^{-1}(U)$ to make sense, but this does mean that one has to be careful with [[Inverse functions|cancellation]].
 
----
-
-**_Remark_**$^1$: Consult this link for more information on the matter: https://math.stackexchange.com/questions/2225251/how-to-write-the-definition-of-a-function-axiomatically

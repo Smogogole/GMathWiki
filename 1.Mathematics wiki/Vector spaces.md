@@ -25,7 +25,7 @@ We define a vector space $(V,+,*)$ over a [[Fields|field]] $F$ is defined as fol
 > A vector space $(V,+,*)$ over a Field $F$ is a set $V$ on which we define the following operations, which must satisfy the vector space axioms:
 > $$\begin{align}
 > +:V\times V\rightarrow V&: (v_1,v_2)\mapsto v_1+v_2\\
-> *:V\times F\rightarrow V&: (v,f)\mapsto f*v
+> *:F\times V\rightarrow V&: (f,v)\mapsto f*v
 > \end{align}
 > $$ 
 
@@ -39,6 +39,7 @@ The vector space axioms the operations must satisfy are the following:
 >- Existence of additive inverse:$$v+(-v)=O_V$$
 >- Distributivity of scaling with regards to addition:$$f*(v_1+v_2)=f*v_1+f*v_2$$
 >- Distributivity of scaling with regards to field addition:$$(f_1+_Ff_2)v=f_1*v+f_2*v$$
+>- Compatibility of scalar multiplication with field multiplication: $$f_{1}(f_{2}*v)=(f_{1}*_{F}f_{2})*v$$
 
 From this we can derive the following basic consequences as well:
 $$\begin{align}

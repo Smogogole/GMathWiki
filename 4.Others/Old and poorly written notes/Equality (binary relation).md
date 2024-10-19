@@ -43,7 +43,7 @@ Generalizations: %%_Statements and proofs of abstractions of `statement`._%%
 
 
 
-The equality, indicated by the sign "$=$", is a [[Binary relations|binary relation]] that takes 2 object of any class $T$ and links them together in order to create true or wrong statements. Equality is a type of [[Equivalence relationships|equivalence relation]] and thus must abide the following axioms:
+The equality, indicated by the sign "$=$", is a [[Relations|binary relation]] that takes 2 object of any class $T$ and links them together in order to create true or wrong statements. Equality is a type of [[Equivalence relations|equivalence relation]] and thus must abide the following axioms:
 
 1. Reflexive axiom, given any object $x$ we have: $$x=x$$
 2. Symmetric axiom, gives any 2 objects $x$ and $y$  of the same class: $$x=y \Longleftrightarrow y=x$$

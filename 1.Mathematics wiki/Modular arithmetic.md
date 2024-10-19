@@ -1,7 +1,7 @@
 
 Given an [[Integers|integer]] $n > 1$, called a modulus, two integers $a$ and $b$ are said to be congruent modulo $n$, if $n$ is a divisor of their difference: that is, if there is an integer $k$ such that:
 $$a-b=kn$$
-Congruence modulo $n$ is a congruence relation, meaning that it is an [[Equivalence relationships|equivalence relation]] that is compatible with the operations of [[Addition|addition]], [[Subtraction|subtraction]], and [[Multiplication|multiplication]]. Congruence modulo $n$ is denoted:
+Congruence modulo $n$ is a congruence relation, meaning that it is an [[Equivalence relations|equivalence relation]] that is compatible with the operations of [[Addition|addition]], [[Subtraction|subtraction]], and [[Multiplication|multiplication]]. Congruence modulo $n$ is denoted:
 $$a \equiv b \pmod{n}$$
 The parentheses mean that $\pmod{n}$ applies to the entire equation, not just to the right-hand side (here, $b$).
 

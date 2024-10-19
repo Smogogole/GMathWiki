@@ -31,7 +31,7 @@ If this bijection exists we say that $S$ is finite. If it doesn't, there may sti
 
 If such bijection still doesn't exist, we say $S$ is uncountable.
 
-Notice that we can construct a [[Equivalence relationships|equivalence relation]] construct out of sharing equal cardinality: [[Equivalent cardinality relation]]
+Notice that we can construct a [[Equivalence relations|equivalence relation]] construct out of sharing equal cardinality: [[Equivalent cardinality relation]]
 
 
 

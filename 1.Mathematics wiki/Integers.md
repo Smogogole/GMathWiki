@@ -4,11 +4,11 @@ More formally the integers can be constructed from scratch, flowing out of the [
 
 ## *Constructing the integers*
 
-In order to construct the integers we will define a [[Scaffolding]] relation that is an [[Equivalence relationships|equivalence relation]]. Thus we have the following definition for integers: An integer is an ordered pair in $\mathbb{N}^2$, written as $a--\;b$, on which we declare the following [[Equivalence relationships|equivalence relation]]: $(a,b)\sim(c,d)\iff a+d=c+b$ and where $a--\; b:=\{(c,d)\in \mathbb{N}^2:(a,b)\sim (c,d)\}$. One would now have to verify we do indeed have an [[Equivalence relationships|equivalence]] relation but this is a very straight forward thing.
+In order to construct the integers we will define a [[Scaffolding]] relation that is an [[Equivalence relations|equivalence relation]]. Thus we have the following definition for integers: An integer is an ordered pair in $\mathbb{N}^2$, written as $a--\;b$, on which we declare the following [[Equivalence relations|equivalence relation]]: $(a,b)\sim(c,d)\iff a+d=c+b$ and where $a--\; b:=\{(c,d)\in \mathbb{N}^2:(a,b)\sim (c,d)\}$. One would now have to verify we do indeed have an [[Equivalence relations|equivalence]] relation but this is a very straight forward thing.
 
 Before we can prove substitution though we obviously need to define some [[Operations|operations]] first, or extend the ones from the [[Natural numbers|natural numbers]]. We thus define:
 $$\begin{align}(a--\;b)+(c--\;d)&:=(a+c)--\;(b+d)\\(a--\;b)\times(c--\;d)&:=(ac+bd)--\;(ad+bc)\end{align}$$
-One could thus now prove that those operations are well defined and that the [[Binary relations|relation]] also obeys substitution.
+One could thus now prove that those operations are well defined and that the [[Relations|relation]] also obeys substitution.
 
 We also notice an obvious [[Isomorphisms]] between the [[Natural numbers|natural numbers]] and the integers.
 $$n\equiv n--\;0$$

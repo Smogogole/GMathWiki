@@ -27,7 +27,7 @@ We now develop an equivalence between Cauchy sequences.
 > [!quote] Definition: Equivalent Cauchy sequences
 > Given a metric space $(X,d)$ and two Cauchy sequences $(a_n)^\infty_{n=m}$ and $(b_n)^\infty_{n=q}$ defined in that metric space, we say the two sequences are equivalent if and only if for every  [[Real numbers|real]]$^1$ $\varepsilon>0$ there exists a $N\in \mathbb Z$ such that for all $n\geq N$ we have $d(a_n,b_n)\leq\varepsilon$.
 
-This equivalence does indeed from an [[Equivalence relationships|equivalence relation]], which we prove [[Equivalence of Cauchy sequences is an equivalence relation|here]].
+This equivalence does indeed from an [[Equivalence relations|equivalence relation]], which we prove [[Equivalence of Cauchy sequences is an equivalence relation|here]].
 
 Also notice that every Cauchy sequence [[Convergence of sequences|converges]]
 

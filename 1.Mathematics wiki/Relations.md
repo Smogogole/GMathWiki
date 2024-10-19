@@ -12,10 +12,10 @@ cssclasses:
 
 Tags: #Type/Object #Topic/Logic #Topic/Abstract_Algebra
 
-Types: [[Equivalence relationships]], [[Functions]]
+Types: [[Equivalence relations]], [[Functions]]
 Examples: _Not applicable_
 Construction: _Not applicable_
-Generalization: [[Relations]]
+Generalization: _Not applicable_
 
 Properties: [[Properties of relations]]
 Sufficiencies: _Not applicable_

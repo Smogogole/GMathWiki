@@ -24,7 +24,7 @@ Justifications: _Not applicable_
 > [!quote] Definition: Set
 > A set is an mathematical object axiomatically defined by [[ZF-axioms]], which contains elements such that we can define relation of set membership which is denoted $\in$.
 
-Given this definition and a notion of set membership we can define an [[Equivalence relationships|equivalence relation]] on sets, namely [[Set-equality]].
+Given this definition and a notion of set membership we can define an [[Equivalence relations|equivalence relation]] on sets, namely [[Set-equality]].
 
 
 

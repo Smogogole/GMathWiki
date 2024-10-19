@@ -1,4 +1,4 @@
-Ordering is a [[Binary relations|binary relation]] that usually pertains to the classic numerical [[Sets|sets]] but it can be relevant to any set really
+Ordering is a [[Relations|binary relation]] that usually pertains to the classic numerical [[Sets|sets]] but it can be relevant to any set really
 
 ## *Ordering of the [[Natural numbers|natural numbers]] $\mathbb{N}$* 
 

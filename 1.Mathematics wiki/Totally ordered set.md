@@ -17,7 +17,7 @@ Generalization: _Not applicable_
 Properties: _Not applicable_
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
-Justifications: [[Partially ordered set]], [[Sets]], [[Relations]]
+Justifications: [[Partially ordered set]], [[Sets]], [[[Relations]]
 
 ---
 

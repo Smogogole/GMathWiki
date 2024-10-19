@@ -19,8 +19,6 @@ Generalizations: _Not applicable_
 
 ---
 
-
-
 > [!quote] Theorem: Boundedness of all subsets implies finite set
 > Let $X$ be a totally ordered set such that every subset has a minimum and a maximum, then $X$ is finite.
 

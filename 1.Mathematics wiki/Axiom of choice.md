@@ -19,7 +19,7 @@ Justifications: %%_Proofs of well-definition of `object`/`notion`._%%
 
 ---  
 
- Let $I$ be a set, and for each $\alpha \in I$, let $X_{\alpha}$ be a set. We then define the cartesian product $\prod_{\alpha\in I}X_{\alpha}$ as follows $$ \prod_{\alpha\in X}X_{\alpha}:= \left\{ (x_\alpha)_{\alpha\in I}\in \left( \bigcup_{\beta\in I} X_{\beta} \right)^{I}  : \forall \alpha \in I, x_{\alpha}\in X_{\alpha}\right\}  $$
+ Let $I$ be a set, and for each $\alpha \in I$, let $X_{\alpha}$ be a set. We then define the Cartesian product $\prod_{\alpha\in I}X_{\alpha}$ as follows $$ \prod_{\alpha\in X}X_{\alpha}:= \left\{ (x_\alpha)_{\alpha\in I}\in \left( \bigcup_{\beta\in I} X_{\beta} \right)^{I}  : \forall \alpha \in I, x_{\alpha}\in X_{\alpha}\right\}  $$
  
 > [!quote] Notion: Axiom of choice
 >Let $I$ be sa set, and for each $\alpha\in I$, let $X_{\alpha}$ be a non-empty set. Then $\prod_{\alpha\in I}X_{\alpha}$ is also non-empty.

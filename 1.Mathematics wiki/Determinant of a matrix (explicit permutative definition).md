@@ -14,10 +14,10 @@ Examples: _Not applicable_
 Construction: _Not applicable_
 Generalization: _Not applicable_
 
-Properties: [[Determinant of a matrix (Properties)]]
+Properties: [[Determinant of a matrix (Properties)]], [[Uniqueness of the determinant map]]
 Sufficiencies: _Not applicable_
 Equivalences: [[Determinant of a matrix (implicit definition)]]
-Justifications: [[Determinant of a matrix (implicit definition)]]
+Justifications: [[Determinant of a matrix (implicit definition)]], [[Explicit definition of the determinant satisfies the properties of the implicit definition]]
 
 ---
 

@@ -22,7 +22,7 @@ Equivalences: _Not applicable_
 
 ---
 
-> [!quote] Definition:
+> [!quote] Definition: Quotient set
 > Let $X$ be a set and $\sim$ be a equivalence relation on $X$, then we define $$ X/\sim := \{ [x] : x \in X\}$$
 >
 

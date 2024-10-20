@@ -1,5 +1,5 @@
 ---
-mathLink: auto
+mathLink: Minor of a matrix in the $i$'th row and $j$'th column
 Date created: 2024-10-19 21:57
 tags:
   - Type/Object

@@ -10,7 +10,7 @@ cssclasses:
 
 ---
 
-Proved by: [[Summations over finite sets (Properties)]], [[Common refinement of bounded intervals]]
+Proved by: [[Series over finite sets (Properties)]], [[Common refinement of bounded intervals]]
 References: _Not applicable_
 Justifications: [[Alpha-length of intervals]], [[Piecewise constant Riemann-Stieltjes integral]]
 

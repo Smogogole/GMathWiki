@@ -7,7 +7,7 @@ mathLink: auto
 Date created: 2024-02-06 17:37
 Tags: #Type/Theorem  #Topic/Real_Analysis 
 
-Proved by: [[Summations over cartesian products]], [[Summations over finite sets (Properties)]]
+Proved by: [[Series over cartesian products]], [[Series over finite sets (Properties)]]
 References: _Not applicable_
 Justifications: _Not applicable_
 

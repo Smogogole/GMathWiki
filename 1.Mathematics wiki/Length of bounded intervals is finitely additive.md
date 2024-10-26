@@ -10,7 +10,7 @@ cssclasses:
 
 ---
 
-Proved by: [[Summations over finite sets (Properties)]], [[Induction]]
+Proved by: [[Series over finite sets (Properties)]], [[Induction]]
 References: _Not applicable_
 Justifications: [[Length of bounded intervals]], [[Intervals of R]]
 

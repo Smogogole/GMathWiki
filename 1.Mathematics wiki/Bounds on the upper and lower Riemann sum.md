@@ -10,7 +10,7 @@ cssclasses:
 
 ---
 
-Proved by: [[Supremum and infimum]], [[Summations over finite sets (Properties)]]
+Proved by: [[Supremum and infimum]], [[Series over finite sets (Properties)]]
 References: _Not applicable_
 Justifications: [[Riemann sums]], [[Piecewise constant integral]]  
 

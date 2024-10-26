@@ -17,7 +17,7 @@ Generalization: _Not applicable_
 Properties: [[Bounds on the upper and lower Riemann sum]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
-Justifications: [[Supremum and infimum]], [[Summations over finite sets]]
+Justifications: [[Supremum and infimum]], [[Series over finite sets]]
 
 ---
 

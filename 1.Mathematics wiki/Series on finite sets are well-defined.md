@@ -9,7 +9,7 @@ Tags: #Type/Theorem  #Type/Proof #Topic/Real_Analysis
 
 Proved by: [[Finite series (Properties)]]
 References: _Not applicable_
-Justifications: [[Finite series]], [[Summations over finite sets]]
+Justifications: [[Finite series]], [[Series over finite sets]]
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

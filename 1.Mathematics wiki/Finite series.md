@@ -9,7 +9,7 @@ Tags: #Type/Object #Topic/Real_Analysis
 
 Types: _Not applicable_
 Examples: _Not applicable_
-Construction: [[Summations over finite sets]]
+Construction: [[Series over finite sets]]
 Generalization: _Not applicable_
 
 Properties: [[Finite series (Properties)]]

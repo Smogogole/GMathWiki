@@ -22,7 +22,7 @@ Justifications: [[Linear combinations of vectors]], [[Vector spaces]]
 ---
 
 > [!quote] Definition: Span of a subset of a vector space
-> Let $V$ be a vector space over some field $F$ and let $W=\{ w_{i} \}_{1\leq i\leq n}\subseteq V$. Then we define $$ \text{span}(W):= \left\{ \sum^{n}_{i=1}\lambda_{i}v_{i} \mid (\lambda_{i})_{1\leq i\leq n}\in F^{n} \right\} $$
+> Let $V$ be a vector space over some field $F$ and let $W\subseteq V$. Then we define $$ \text{span}(W):= \left\{ \sum^{n}_{i=1}\lambda_{i}v_{i} \mid n\in \mathbb{N}^{*},(\lambda_{i})_{1\leq i\leq n}\in F^{n}, (v_{i})_{1\leq i\leq n}\in V^{n} \right\} $$
 > Also by convention $$ \text{span}(\emptyset)=\{ 0 \} $$
 
-Trivially, $\text{span(W)}$ is a vector subspace of $V$. We also sometimes write "$A$ is a vector subspace of $B$" as $A\subset_{\text{vec}}B$
+Trivially, $\text{span(W)}$ is a vector subspace of $V$. 

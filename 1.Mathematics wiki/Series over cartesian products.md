@@ -7,7 +7,7 @@ mathLink: auto
 Date created: 2024-02-06 13:45
 Tags: #Type/Theorem #Type/Proof  #Topic/Real_Analysis 
 
-Proved by: [[Summations over finite sets (Properties)]]
+Proved by: [[Series over finite sets (Properties)]]
 References: _Not applicable_
 Justifications: [[Finite series]]
 

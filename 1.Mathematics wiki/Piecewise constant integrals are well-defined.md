@@ -10,7 +10,7 @@ cssclasses:
 
 ---
 
-Proved by: [[Length of bounded intervals is finitely additive]], [[Common refinement of bounded intervals]], [[Summations over finite sets (Properties)]]
+Proved by: [[Length of bounded intervals is finitely additive]], [[Common refinement of bounded intervals]], [[Series over finite sets (Properties)]]
 References: _Not applicable_
 Justifications: [[Interval partition of a bounded interval]], [[Piecewise constant integral]], [[Length of bounded intervals]], [[Finer and coarser partitions of bounded intervals]]
 

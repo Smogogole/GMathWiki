@@ -7,7 +7,7 @@ mathLink: auto
 Date created: 2024-03-31 10:42
 Tags: #Type/Theorem  #Type/Proof #Topic/Real_Analysis 
 
-Proved by: [[Infinite series (Properties)]], [[Finite series (Properties)]], [[Summations over finite sets (Properties)]]
+Proved by: [[Infinite series (Properties)]], [[Finite series (Properties)]], [[Series over finite sets (Properties)]]
 References: _Not applicable_
 Justifications: [[Series on uncountable sets]], [[Axiom of choice]], [[Series on countable sets]]
 

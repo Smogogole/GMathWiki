@@ -24,7 +24,7 @@ Justifications: _Not applicable_
 > [!quote] Notion: Subspace of a vector space
 > Let $(V,+,*)$ be a vector space over some field $F$. We say $W\subseteq V$ is a vector subspace of $V$ if and only if $(W,+,*)$ is also a vector space.
 
-
+We also sometimes write "$A$ is a vector subspace of $B$" as $A\subset_{\text{vec}}B$
 
 
 

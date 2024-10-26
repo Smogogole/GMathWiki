@@ -7,7 +7,7 @@ mathLink: auto
 Date created: 2024-02-26 16:25
 Tags: #Type/Proof  #Topic/Real_Analysis 
 
-Proved by: [[Summations over finite sets (Properties)]]
+Proved by: [[Series over finite sets (Properties)]]
 References: _Not applicable_
 Justifications: [[Rearrangement of series of non-negative reals]], [[Infinite series]]
 

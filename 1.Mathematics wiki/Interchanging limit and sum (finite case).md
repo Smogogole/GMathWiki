@@ -9,7 +9,7 @@ Tags: #Type/Theorem  #Type/Proof #Topic/Real_Analysis
 
 Proved by: [[Convergence of sequences]], [[Completeness of the real numbers]]
 References:  _Not applicable_
-Justifications: [[Finite summations are well-defined]], [[Summations over finite sets]]
+Justifications: [[Series on finite sets are well-defined]], [[Series over finite sets]]
 
 Specializations: _Not applicable_
 Generalizations: [[Interchanging limit and sum]]

@@ -19,7 +19,7 @@ Justifications: [[Vector spaces]], [[Binary operations]]
 
 ---  
 
-We define a common [[Binary operations|binary operation]] for [[Vectors]] called the dot or scalar product.
+We define a common [[Binary operations|binary operation]] for vectors called the dot or scalar product.
 
 > [!quote] Notion: Dot or scalar product
 > Given $v,w\in V$ where $V$ is a vector space over a field of the form $F^n$, we define the dot product as: $$(v_i)_{1\leq i\leq n}*(w_i)_{1\leq i\leq n}:=(v_i+w_i)_{1\leq i\leq n}$$

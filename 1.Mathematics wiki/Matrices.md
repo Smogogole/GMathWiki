@@ -12,7 +12,7 @@ cssclasses:
 Types: [[Row and reduced row echelon matrix]]
 Examples: _Not applicable_
 Construction: [[Determinant of a matrix (implicit definition)]], [[Determinant of a matrix (explicit permutative definition)]], [[Matrix vector space M(F)]], [[Diagonal of a a matrix]], [[Matrix transposition]], [[Elementary matrices]], [[Matrix multiplication]], [[Trace of a matrix]], [[Left and right inverse of a matrix]]
-Generalization: [[Vectors]]
+Generalization: _Not applicable_
 
 Properties: [[Row equivalence]]
 Sufficiencies: _Not applicable_

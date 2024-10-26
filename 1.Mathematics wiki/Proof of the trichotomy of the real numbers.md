@@ -7,7 +7,7 @@ mathLink: auto
 Date created: 2023-11-13 17:11
 Tags: #Type/Proof #Topic/Real_Analysis 
 
-Proved by: [[Boundedness of rational sequences]], [[Boundedness away from zero]]
+Proved by: [[Bounded rational sequences]], [[Boundedness away from zero]]
 References: _Not applicable_
 Justifications: [[Positive and negative real numbers]], [[Cauchy sequences]],
 

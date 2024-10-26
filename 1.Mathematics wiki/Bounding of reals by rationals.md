@@ -7,7 +7,7 @@ mathLink: auto
 Date created: 2023-11-15 17:40
 Tags: #Type/Theorem  #Topic/Real_Analysis 
 
-Proved by: [[Boundedness of rational sequences]], [[Boundedness away from zero]], [[Interspersing of the rational numbers]]
+Proved by: [[Bounded rational sequences]], [[Boundedness away from zero]], [[Interspersing of the rational numbers]]
 References: _Not applicable_
 Justifications: _Not applicable_
 

@@ -11,7 +11,7 @@ Types: [[Finite sequences]], [[Cauchy sequences]], [[Subsequences]]
 Construction: [[Real numbers]], [[Convergence of sequences]]
 Generalization: [[Functions]]
 
-Properties: [[Boundedness of rational sequences]], [[Boundedness of real sequences]], [[Boundedness away from zero]], [[Change of entries for sequences]]
+Properties: [[Bounded rational sequences]], [[Bounded real sequences]], [[Boundedness away from zero]], [[Change of entries for sequences]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
 Justifications: [[Sets]]

@@ -10,7 +10,7 @@ Tags: #Type/Object #Topic/Abstract_Algebra
 Types: [[Cyclic groups]]
 Examples: [[Dihedral group]], [[Modular group]], [[General linear group]], [[N fold reals]]
 Construction: [[Homomorphisms]], [[Isomorphisms]]
-Generalization: [[Algebraic structures]]
+Generalization: _Not applicable_
 
 Properties: [[Properties of groups]], [[Order of a group and group elements]]
 Sufficiencies: _Not applicable_
@@ -19,10 +19,8 @@ Justifications: [[Ordered pairs and n-tuples]], [[Sets]], [[Functions]], [[Binar
 
 ---  
 
-Groups are some of the most basic [[Algebraic structures]] studied in abstract algebra and have an incredible amount of application. Their definition is as follows:
-
 > [!quote] Definition: Group
-> A group is a [[Algebraic structures|algebraic structure]] that is represented by a set $G$ and a [[Binary operations|binary operation]] on $G$ such that:
+> A group is a algebraic structure that is represented by a set $G$ and a [[Binary operations|binary operation]] on $G$ such that:
 > - The operation is associative
 > - The operation has an identity $e$
 > - The operation has an inverse for every element in $G$

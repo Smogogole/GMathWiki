@@ -12,7 +12,7 @@ Examples: [[Harmonic sequence]]
 Construction: [[Real numbers]]
 Generalization: [[Functions]], [[Sequences]]
 
-Properties: [[Boundedness of rational sequences]], [[Cauchyness is transitive across equivalence]], [[Boundedness away from zero]], [[Convergence of sequences]]
+Properties: [[Bounded rational sequences]], [[Cauchyness is transitive across equivalence]], [[Boundedness away from zero]], [[Convergence of sequences]]
 Sufficiencies: _Not applicable_
 Equivalences: [[Limit definition for sequential equivalence]]
 Justifications: [[Sequences]], [[Metric spaces]], 

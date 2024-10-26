@@ -10,7 +10,7 @@ Tags: #Type/Notion #Topic/Real_Analysis
 Types: _Not applicable_ 
 Examples: _Not applicable_
 Construction: _Not applicable_
-Generalization: [[Boundedness of sequences]]
+Generalization: _Not applicable_
 
 Properties: [[Real convergent sequences are bounded]]
 Sufficiencies: _Not applicable_
@@ -22,6 +22,6 @@ Justifications: [[Real numbers]], [[Ordering of the real numbers]]
 We develop a notion of bounded real sequences as follows:
 
 > [!quote] Notion: Real bounded sequence
-> A sequence of real numbers $(a_n)^\infty_{n=m}$ is said to be bounded if and only if: $$\exists M:\forall n\geq m\;\text{we have}\;|a_n|\leq M$$
+> A sequence of real numbers $(a_n)^\infty_{n=m}$ is said to be bounded if and only if: $$\exists M:\forall n\geq m:|a_n|\leq M$$
 
-We can easily check this definition is consistent with the one in [[Boundedness of rational sequences]].
+We can easily check this definition is consistent with the one in [[Bounded rational sequences]].

@@ -30,15 +30,10 @@ Generalizations: %%_Statements and proofs of abstractions of `statement`._%%
 
 ---  
 
-
-
 > [!quote] Definition
 > Lorem ipsum dolor sit amet
 
-If $f$ is bijective then their exits exactly one $x$ such that $f(x)=y$. We denote this $x$ as follows: $f^{-1}(y)$. Thus $f^{-1}$ is a function from $Y$ to $X$, we call this the inverse function of $f$.
 
-
-For $S$ a subset of the domain and $U$ a subset of the range we have that: $$\left\{ \begin{align}f^{-1}(f(S))=S \hspace{1cm}&: \text{only with a injective} \;f\\ f(f^{-1}(U))=U \hspace{1cm}&:\text{only with a surjective}\; f\end{align}\right.$$
 ##### Cancellation of bijective inverses
 
 Let $f : X → Y$ be a bijective function, and let $f^{−1} : Y → X$ be its inverse. Then we can conduct the following cancelations:

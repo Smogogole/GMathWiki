@@ -9,7 +9,7 @@ Tags: #Type/Theorem  #Type/Proof #Topic/Real_Analysis
 
 Proved by: [[Limsup and liminf of sequences (Properties)]], [[Existence of a convergent subsequence of a sequence with real limit points]], [[Comparison principle of sequences]]
 References: _Not applicable_
-Justifications: [[Boundedness of real sequences]], [[Sequences]]
+Justifications: [[Bounded real sequences]], [[Sequences]]
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

@@ -9,7 +9,7 @@ Tags: #Type/Theorem #Type/Proof #Topic/Linear_Algebra
 
 Proved by:  _Not applicable_
 References: _Not applicable_
-Justifications: [[Vector subspace]], [[Sum and direct sum of vector spaces]]
+Justifications: [[Vector subspaces]], [[Sum and direct sum of vector spaces]]
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

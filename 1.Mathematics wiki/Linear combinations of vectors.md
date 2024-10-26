@@ -9,10 +9,10 @@ Tags: #Type/Notion #Topic/Linear_Algebra
 
 Types: _Not applicable_
 Examples: _Not applicable_
-Construction: [[Span of a set]], [[Linear dependence and independence]]
+Construction: [[Span of a subset of a vector space]], [[Linear dependence and independence]]
 Generalization: _Not applicable_
 
-Properties: [[Test for linear combinations]], [[Span(V') is a vector subspace]]
+Properties: [[Test for linear combinations]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
 Justifications: _Not applicable_
@@ -27,4 +27,3 @@ We define linear combinations of vectors as follows:
 Where obviously $f_i$ is a scalar in $F$ and $v_i$ is a vector in $V$. We sometimes specify the set of vectors used, and say that we have a linear combination of the vectors $V'$.
 
 We thus say a vector $v$ is a linear combination of vectors $V'$ if there exists $\text{card}(V')$ scalars $f$ such that: $$v=\sum_{1\leq i\leq\text{card}(V')}f_i*v_i$$We can then also denote the set off all linear combinations of vectors of $V'$: $$\text{Span}(V')=\left\{v:v=\sum_{1\leq i\leq\text{card}(V')}f_i*v_i \;\text{with}\; v_i\in V'\land (f_i)_{1\leq i\leq n}\in \prod_{1\leq i\leq n} F\right\}$$
-Notice that this forms a [[Span(V') is a vector subspace|subspace]] of $V$ and that this definition is literally the same as the definition for the [[Span of a set]].

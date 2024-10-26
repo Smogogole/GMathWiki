@@ -11,7 +11,7 @@ cssclasses:
 
 Types: [[Function spaces]], [[Perp(v)]], [[Matrix vector space M(F)]]
 Examples: _Not applicable_
-Construction: [[Vector subspace]], [[Linear maps]]
+Construction: [[Vector subspaces]], [[Linear maps]]
 Generalization: _Not applicable_
 
 Properties: [[Vector spaces (Properties)]]

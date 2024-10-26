@@ -11,7 +11,7 @@ cssclasses:
 
 Proved by: _Not applicable_
 References: _Not applicable_
-Justifications: [[Vector spaces]], [[Vector subspace]], [[Fields]]
+Justifications: [[Vector spaces]], [[Vector subspaces]], [[Fields]]
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

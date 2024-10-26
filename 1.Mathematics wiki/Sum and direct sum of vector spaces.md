@@ -15,7 +15,7 @@ Generalization: _Not applicable_
 Properties: [[Vector spaces can be written as a direct sum given a subspace]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
-Justifications: [[Vector subspace]]
+Justifications: [[Vector subspaces]]
 
 ---  
 

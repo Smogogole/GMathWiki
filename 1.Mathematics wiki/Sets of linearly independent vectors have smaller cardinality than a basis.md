@@ -7,7 +7,7 @@ mathLink: auto
 Date created: 2023-12-15 15:34
 Tags: #Type/Theorem  #Type/Proof #Topic/Linear_Algebra 
 
-Proved by: [[Linear dependence and independence]], [[Bases of vector spaces]], [[Span of a set]]
+Proved by: [[Linear dependence and independence]], [[Bases of vector spaces]], [[Span of a subset of a vector space]]
 References: _Not applicable_
 Justifications: _Not applicable_
 

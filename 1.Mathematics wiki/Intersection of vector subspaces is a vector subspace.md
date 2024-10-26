@@ -14,7 +14,7 @@ Proved by: [[Vector subspace criterium]]
 References: _Not applicable_
 Justifications: %[[Vector spaces]]
 
-Specializations: _Not applicable_
+Specializations: _Not applicable_*
 Generalizations: _Not applicable_
 
 ---

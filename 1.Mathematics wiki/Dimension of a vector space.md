@@ -15,7 +15,7 @@ Generalization: _Not applicable_
 Properties: _Not applicable_
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
-Justifications: [[Cardinality of a set]], [[Bases of vector spaces]], [[Vector spaces]], [[Sets of linearly independent vectors have smaller cardinality than a basis]]
+Justifications: [[Cardinality of a set]], [[Bases of vector spaces]], [[Vector spaces]], [[Steinitz lemma]]
 
 ---  
 
@@ -24,8 +24,7 @@ We define a notion of dimensionality in terms of bases as follows:
 > [!quote] Notion: Dimension of a vector space
 > Given a vector space $V$ and a basis of that space $S$, we define: $$\dim V := \text{Card}(S)$$
 
-In order for this to be a meaningful definition we must have that the dimension of $V$ is consistent regardless of the basis.
-This can easily be proven by considering [[Sets of linearly independent vectors have smaller cardinality than a basis|this]] property for two bases of size $n$ and size $k$ respectively. Proving us that $k=n$.
+In order for this to be a meaningful definition we must have that the dimension of $V$ is consistent regardless of the basis. This can easily be proven by considering [[Steinitz lemma|this]] property for two bases of size $n$ and size $k$ respectively. Proving us that $k=n$.
 
 Here are some basic properties that follow from this definition:
 

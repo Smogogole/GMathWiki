@@ -7,9 +7,9 @@ mathLink: auto
 Date created: 2023-10-21 20:42
 Tags: #Type/Proof #Topic/Number_Theory 
 
-Proved by: [[Induction]], [[Successor function]], [[Peano axioms]]
+Proved by: [[Induction]], [[Peano axioms]]
 References: _Not applicable_
-Justifications: [[Positive natural numbers]], [[Addition of the natural numbers]], 
+Justifications: [[Addition of the natural numbers]]
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_
@@ -30,7 +30,7 @@ These are the proofs for the properties of [[Positive natural numbers]].
 > **Q.E.D.**
 
 > [!quote]- $a\in \mathbb N^{+}\implies \exists! b:S(b)=a$
-> We will proceed by induction on $a$. We first see that the base case $a=0$ is vacuously true as 0 isn't the successor of any number. Now suppose inductively that the statement is true for $a=k$, then we have to show it is true for $a=S(k)$ . To show that we must prove that $S(b)=S(k)$ has a solution and also that it is unique. We can first see that $k=b$ is a solution to $S(b)=S(k)$. To prove the uniqueness suppose their are two natural numbers $b_1$ and $b_2$ such that $S(b_1) =S(k)=S(b_2)$ . Then we know that $S(b_1)=S(b_2)$ and since according to the [[Peano axioms]] the [[Successor function]] is an injection we know this implies that $b_1=b_2$ , which clearly proves that the answer $k=b$ is unique. Thus closing the induction.
+> We will proceed by induction on $a$. We first see that the base case $a=0$ is vacuously true as 0 isn't the successor of any number. Now suppose inductively that the statement is true for $a=k$, then we have to show it is true for $a=S(k)$ . To show that we must prove that $S(b)=S(k)$ has a solution and also that it is unique. We can first see that $k=b$ is a solution to $S(b)=S(k)$. To prove the uniqueness suppose their are two natural numbers $b_1$ and $b_2$ such that $S(b_1) =S(k)=S(b_2)$ . Then we know that $S(b_1)=S(b_2)$ and since according to the [[Peano axioms]] the succesor is an injection we know this implies that $b_1=b_2$ , which clearly proves that the answer $k=b$ is unique. Thus closing the induction.
 > 
 > **Q.E.D.**
 

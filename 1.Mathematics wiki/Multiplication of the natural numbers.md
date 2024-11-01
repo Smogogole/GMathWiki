@@ -13,7 +13,7 @@ Construction: [[Semiring of natural numbers]]
 Generalization: [[Multiplication]], [[Binary operations]]
 
 Properties: _Not applicable_
-Sufficiencies: [[Successor function]], [[Natural numbers]]
+Sufficiencies: [[Natural numbers]]
 Equivalences: _Not applicable_
 Justifications: [[Multiplication is well defined in N]]
 

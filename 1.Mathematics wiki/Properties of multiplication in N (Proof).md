@@ -7,7 +7,7 @@ mathLink: auto
 Date created: 2023-10-21 22:35
 Tags: #Type/Proof #Topic/Number_Theory #Topic/Real_Analysis 
 
-Proved by: [[Induction]], [[Successor function]], [[Peano axioms]], [[Addition of the natural numbers]]
+Proved by: [[Induction]], [[Peano axioms]], [[Addition of the natural numbers]]
 References: _Not applicable_
 Justifications: _Not applicable_
 

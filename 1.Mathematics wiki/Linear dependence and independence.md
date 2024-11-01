@@ -12,7 +12,7 @@ Examples: _Not applicable_
 Construction: [[Coordinates with respects to a basis]], [[Bases of vector spaces]]
 Generalization: _Not applicable_
 
-Properties: [[Condition of linear dependence]], [[Maximal subset of linearly independent vectors]]
+Properties: _Not applicable_
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
 Justifications: [[Vector spaces]], [[Every vector space has a basis]]
@@ -22,15 +22,11 @@ Justifications: [[Vector spaces]], [[Every vector space has a basis]]
 Given a vector space $V$ we can develop a notion of dependence.
 
 > [!quote] Definition: Linear dependence
-> A set of vectors $V'$ are said to be linearly dependent if there exists a set of scalars which are not all $O_{F}$ such that: $$ \sum^{\text{card} (V')}_{i=1} f_{i}v_{i}=O_{V}
+> A set of vectors $\{ v_{i} \}_{1\leq i\leq n}$ are said to be linearly dependent if there exists a set of scalars which are not all $0$ such that: $$ \sum^{n}_{i=1} f_{i}v_{i}=0
 $$
 
-If those scalars don't exists then we say the vectors of $V'$ are linearly independent. 
+If those scalars don't exists then we say the vectors of $\{ v_{i} \}_{1\leq i\leq n}$ are linearly independent. 
 
-In addition, if we have: $$
-\forall v \in V\backslash\text{Span}(V')\;\text{we have} \; V' \cup\{v\} \;\text{are linearly dependant}
-$$
-Then we say that the subset is maximal. We can then easily prove that maximal subsets form a [[Bases of vector spaces|bases for vector spaces]]. 
 
 
 

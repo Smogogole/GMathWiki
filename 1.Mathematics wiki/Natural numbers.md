@@ -1,29 +1,30 @@
-
 ---
-
 mathLink: auto
-
----
 Date created: 2023-10-20 21:18
-Tags: #Type/Object #Topic/Number_Theory #Topic/Real_Analysis
+tags:
+  - Type/Object
+  - Topic/Set_Theory
+  - Topic/Logic
+cssclasses:
+---
+
+---  
 
 Types: [[Positive natural numbers]]
 Examples: _Not applicable_
 Construction: [[Integers]], [[Ordering of the natural numbers]], [[Addition of the natural numbers]], [[Multiplication of the natural numbers]], [[Euclidian algorithm]] 
-Generalization: [[Sets]], [[Semiring]], [[Axioms]]
+Generalization: [[Sets]], [[Semiring]]
 
 Properties: [[Finite subset of the natural numbers are bounded]]
 Sufficiencies: [[Sets]]
 Equivalences: _Not applicable_
-Justifications: [[Peano axioms]]
+Justifications: [[Peano axioms]], [[Natural numbers are unique]], [[ZF-axioms]]
 
---- 
-
-Formally speaking the natural numbers is a [[Sets|set]] defined by one of the [[ZF-axioms]], the axiom of infinity  
+---
 
 > [!quote] Definition: Natural numbers
-> There exists a set $\mathbb{N}$, whose elements are called natural numbers, as well as an object $0$ in $\mathbb{N}$, and an object $S(n)$ assigned to every natural number $n ∈ \mathbb{N}$, such that the [[Peano axioms]] hold.
+> Let $\mathbb{N}$ denote the unique set satisfying the Peano axioms. We call this set the set of natural numbers.
 
-Under [[Addition|addition]] and [[Multiplication|multiplication]] the natural numbers form a [[Semiring|semiring]]
-
-
+There are two implicit assumptions to this definition:
+1. $\mathbb{N}$ is unique up to morphism
+2. There is some set $\mathbb{N}$ satisfying the Peano axioms

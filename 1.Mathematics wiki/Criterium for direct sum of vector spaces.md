@@ -12,7 +12,7 @@ cssclasses:
 
 Proved by: [[Induction]]
 References: _Not applicable_
-Justifications: [[Vector spaces]], [[Vector subspaces]], [[Sums and direct sums of vector subspaces]]  
+Justifications: [[Vector spaces]], [[Vector subspaces]], [[Internal sums and direct internal sums of vector subspaces]]  
 
 Specializations: _Not applicable_
 Generalizations: _Not applicable_

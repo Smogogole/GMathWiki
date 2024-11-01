@@ -1,33 +1,33 @@
-
 ---
-
 mathLink: auto
-
----
 Date created: 2023-10-20 20:47
-Tags: #Type/Notion #Topic/Number_Theory
+tags:
+  - Type/Object
+  - Topic/Logic
+  - Topic/Set_Theory
+cssclasses:
+---
+
+---  
 
 Types: _Not applicable_
 Examples: _Not applicable_
 Construction: [[Natural numbers]] 
-Generalization: [[Axioms]]
+Generalization: _Not applicable_
 
 Properties: _Not applicable_
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
-Justifications: [[Successor function]], [[Functions]], [[Induction]]
+Justifications: [[Functions]], [[Induction]]
 
 ---
 
-The Peano axioms are a set of [[Axioms|axioms]] used to construct the [[Natural numbers|natural numbers]]. They describe the fundamental properties of $\mathbb N$.
-
-> [!quote] Notion: Peano axioms
-> 1. $0\in\mathbb N$ 
-> 2. $n\in\mathbb N\implies S(n)\in \mathbb N$
-> 3. $\forall n\in \mathbb N:S(n)\neq 0$
-> 4. $S$ is an injection
-> 5. Let $P(n)$ be any property pertaining to a natural number $n$. Suppose that $P(0)$ is true, and suppose that whenever $P(n)$ is true, $P(S(n))$ is also true. Then $P(n)$ is true for every natural number $n$.
+> [!quote] Definition: Peano axioms
+> Let $X$ be some set, then the Peano axioms are defined as:
+> 1. There exists some injection $S:X\to X$ and some initial $x_{0}\in X$ satisfying:
+> 	1. $$x\in X\implies S(x)\in X$$
+> 	2. $$\forall x\in X: S(x)\neq x_{0}$$
+> 2. If $I\subset X$ is some set satisfying $$(x_{0}\in I)\land (x\in I\implies S(x)\in I)$$Then $I=X$.
 > 
 
-Where $S(n)$ denotes the [[Successor function|successor function]] and the fifth axiom is a description of [[Induction]].
 

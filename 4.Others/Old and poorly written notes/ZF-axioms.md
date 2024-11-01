@@ -5,12 +5,12 @@ mathLink: auto
 
 ---
 Date created: 2023-11-24 22:05
-Tags: #Type/Unfinished  #Type/Object #Topic/Set_Theory 
+Tags: #Type/Unfinished  #Type/Object #Topic/Set_Theory #COMPROMISED 
 
 Types: %%_Objects/notions of type `object`/`notion` with additional restrictions._%% 
 Examples: %%_Specific examples or counterexamples of `object`/`notion` (but not of any of its `types`)._%%
 Construction: [[Sets]], [[Union of sets]], [[Intersection of sets]], [[Difference of sets]]
-Generalization: [[Axioms]]
+Generalization: 
 
 Properties: %%_Statements regarding `object` or necessary conditions of `notion`._%%
 Sufficiencies: %%_Proofs that other objects are of type `object` or sufficient conditions of `notion`._%%
@@ -19,7 +19,9 @@ Justifications: %%_Proofs of well-definition of `object`/`notion`._%%
 
 ---  
 
+**WARNING:** _This note is tagged as "COMPROMISED", meaning it is known to contain some small inaccuracy, or possibly, big mistake. It is advised not to use the note for documentation and approach reading it critically.
 
+---
 
 > [!quote] Definition: Axiom of extensionality
 > Two sets are equal if and only if: $$\forall A\forall B[\forall x:x\in A\iff x\in B\implies A=B]$$

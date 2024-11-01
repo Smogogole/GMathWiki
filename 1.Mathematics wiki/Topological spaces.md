@@ -33,5 +33,4 @@ Given any set $S$ in $X$, we say $S$ is closed if and only if $X\backslash S\in 
 Given any set $X$ we can construct two obvious topologies. One being the indiscrete topology: $$
 (X,\{ X,\emptyset \})
 $$And the other being the discrete topology: $$
-(X,\mathcal P(X))
-$$
+(X,\mathcal P(X))$$

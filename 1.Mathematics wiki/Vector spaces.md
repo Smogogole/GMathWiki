@@ -9,7 +9,7 @@ cssclasses:
 
 ---  
 
-Types: [[Function spaces]], [[Perp(v)]], [[Matrix vector space M(F)]]
+Types: [[Matrix vector space M(F)]]
 Examples: _Not applicable_
 Construction: [[Vector subspaces]], [[Linear maps]]
 Generalization: _Not applicable_

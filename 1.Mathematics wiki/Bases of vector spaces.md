@@ -9,7 +9,7 @@ Tags: #Type/Notion #Topic/Linear_Algebra
 
 Types: _Not applicable_
 Examples: _Not applicable_
-Construction: [[Coordinates with respects to a basis]]
+Construction: [[Coordinate map given a basis]]
 Generalization: _Not applicable_
 
 Properties: [[Every vector space has a basis]], [[Steinitz lemma]]

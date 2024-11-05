@@ -12,7 +12,7 @@ Examples: _Not applicable_
 Construction: [[Isomorphisms]]
 Generalization: [[Functions]], [[Category]], [[Linear category]]
 
-Properties: _Not applicable_
+Properties: [[Linear maps (Properties)]], [[Linear transformations are uniquely determined by a a matrix once a two bases are fixed]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
 Justifications: [[Vector spaces]]
@@ -21,13 +21,9 @@ Justifications: [[Vector spaces]]
 
 
 > [!quote] Definition: Linear map
-> A linear map is a function $T$ from a vector space $V$ to a vector space $W$, both which are defined over a [[Fields|field]] $F$, that satisfies:$$
-\begin{align} 
-T(v+w)&=T(v)+T(w)\\
-T(av)&=aT(v)
-\end{align}
-$$Or simply: $$ T(av+bw)=aT(v)+bT(w)
+> A linear map is a function $L$ from a vector space $V$ to a vector space $W$, both which are defined over a [[Fields|field]] $F$, that satisfies:$$ \begin{align}  L(v+w)&=L(v)+L(w)\\ L(av)&=aL(v) \end{align}
+$$Or simply: $$ L(av+bw)=aL(v)+bL(w)
 $$
 
-If $T$ is [[Functions|bijective]] we say that $T$ is a [[Isomorphisms|isomorphism]] between vector spaces.
+If $T$ is [[Functions|bijective]] we say that $T$ is a [[Isomorphisms|isomorphism]] between vector spaces and if $V=W$ then we say that $T$ is a linear transformation.
 

@@ -1,5 +1,7 @@
 # GMathWiki
 
+mod
+
 Dit is mijn Obsidian Vault waar je al mijn persoonlijke nota's kan terugvinden. Deze nota's zijn:
 - Nota's die ik in zelfstudie maak over diverse wiskundige concepten
 - Nota's die ik in de les op de universiteit maak

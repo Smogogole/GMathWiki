@@ -12,7 +12,7 @@ Examples: _Not applicable_
 Construction: _Not applicable_
 Generalization: _Not applicable_
 
-Properties: [[Properties of dimensionality]]
+Properties: [[Dimension of a vector space (Properties)]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
 Justifications: [[Cartesian product]], [[Vector spaces]], [[Fields]]

@@ -10,7 +10,7 @@ cssclasses:
 ---
 
 Types: [[Inverse functions]], [[Partial functions]]
-Examples: [[Inclusion and identity maps]], [[Coordinate functions]], [[Empty functions]]
+Examples: [[Inclusion and identity maps]], [[Empty functions]]
 Construction: [[Graph (functions)]], [[Injections, surjections and bijections]], [[Image and preimage of a set under a function]]
 Generalization: [[Relations]]
 

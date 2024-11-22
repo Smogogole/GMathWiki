@@ -37,4 +37,4 @@ Generalizations: %%_Statements and proofs of abstractions of `statement`._%%
 
 
 
-We can now embed the rationals in the reals by the following [[Isomorphisms|isomorphism]]: $$q:=\text{LIM}_{n\rightarrow \infty}\;q$$
+We can now embed the rationals in the reals by the following [[Group isomorphism|isomorphism]]: $$q:=\text{LIM}_{n\rightarrow \infty}\;q$$

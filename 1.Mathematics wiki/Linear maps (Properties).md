@@ -23,5 +23,6 @@ Generalizations: _Not applicable_
 > 1. $L(0)=0$ and $L(-v)=-L(v)$
 > 2. $$L\left( \sum^{n}_{i=1}\lambda_{i}v_{i} \right)=\sum^{n}_{i=1}\lambda_{i}L(v_{i}) $$
 > 3. Given $\beta$ some basis of $V$. $L$ is uniquely determined by $L(\beta)$.
+> 4. If $L':W\to U$ is also a linear map then $L'\circ L$ is also linear.
 
 We do not prove these properties as they are quite trivial.

@@ -1,5 +1,5 @@
 ---
-mathLink: Space of linear maps $\mathscr L(V,V')$
+mathLink: Space of linear maps $\text{Hom}_{F}(V,V')$
 Date created: 2023-12-28 17:30
 tags:
   - Type/Object
@@ -21,8 +21,8 @@ Justifications: [[Fields]], [[Vector spaces]], [[Linear maps]]
 
 ---
 
-> [!quote] Definition: Space of linear maps $\mathscr L(V,V')$
-> Given two vector spaces $V$ and $V'$ over a field $F$, we define $\mathscr L(V,V')$ to be the algebraic structure defined by the set of all linear maps from $V$ to $V'$ and the operation of sum and scalar product of functions given by: $$\begin{align} +_{f}:(L+T)(x)&:=L(x)+T(x) \\ *_{f}:(cL)(x)&:=cL(x)
+> [!quote] Definition: Space of linear maps $\text{Hom}_{F}(V,V')$
+> Given two vector spaces $V$ and $V'$ over a field $F$, we define $\text{Hom}_{F}(V,V')$ to be the algebraic structure defined by the set of all linear maps from $V$ to $V'$ and the operation of sum and scalar product of functions given by: $$\begin{align} +_{f}:(L+T)(x)&:=L(x)+T(x) \\ *_{f}:(cL)(x)&:=cL(x)
 \end{align}$$ 
 
 

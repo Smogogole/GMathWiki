@@ -9,7 +9,7 @@ Tags: #Type/Notion #Topic/Linear_Algebra
 
 Types: _Not applicable_
 Examples: _Not applicable_
-Construction: [[Properties of dimensionality]], [[Product and direct product of vector spaces]]
+Construction: [[Dimension of a vector space (Properties)]], [[Product and direct product of vector spaces]]
 Generalization: _Not applicable_
 
 Properties: [[Vector spaces can be written as a direct sum given a subspace]]

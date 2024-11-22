@@ -9,7 +9,7 @@ Tags: #Type/Object #Topic/Abstract_Algebra
 
 Types: [[Cyclic groups]]
 Examples: [[Dihedral group]], [[Modular group]], [[General linear group]], [[N fold reals]]
-Construction: [[Homomorphisms]], [[Isomorphisms]]
+Construction: [[Homomorphisms]], [[Group isomorphism]]
 Generalization: _Not applicable_
 
 Properties: [[Properties of groups]], [[Order of a group and group elements]]

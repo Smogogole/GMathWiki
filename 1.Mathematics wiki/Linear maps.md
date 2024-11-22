@@ -9,10 +9,10 @@ Tags: #Type/Object #Topic/Linear_Algebra
 
 Types: [[Matrices]]
 Examples: _Not applicable_
-Construction: [[Isomorphisms]]
+Construction: [[Group isomorphism]]
 Generalization: [[Functions]], [[Category]], [[Linear category]]
 
-Properties: [[Linear maps (Properties)]], [[Linear transformations are uniquely determined by a a matrix once a two bases are fixed]]
+Properties: [[Linear maps (Properties)]], [[Linear maps are uniquely determined by a a matrix once a two bases are fixed]]
 Sufficiencies: _Not applicable_
 Equivalences: _Not applicable_
 Justifications: [[Vector spaces]]

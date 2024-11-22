@@ -10,7 +10,7 @@ Before we can prove substitution though we obviously need to define some [[Opera
 $$\begin{align}(a--\;b)+(c--\;d)&:=(a+c)--\;(b+d)\\(a--\;b)\times(c--\;d)&:=(ac+bd)--\;(ad+bc)\end{align}$$
 One could thus now prove that those operations are well defined and that the [[Relations|relation]] also obeys substitution.
 
-We also notice an obvious [[Isomorphisms]] between the [[Natural numbers|natural numbers]] and the integers.
+We also notice an obvious [[Group isomorphism]] between the [[Natural numbers|natural numbers]] and the integers.
 $$n\equiv n--\;0$$
 From this flows the notion of negation of the [[Natural numbers|natural numbers]] and the integers. If $(a--\;b)$ is an integer then we define it's negation $-(a--\;b)$ to be the integer $(b --\;a)$. In particular if $n$ is a positive natural number we have that $n=n--\;0$ and thus $-n=(0--\;n)$.  We can once again check that this definition is well defined.
 

@@ -33,7 +33,7 @@ More formally the rationals can be constructed from the [[Integers|integers]].
 Notice that $//$ is [[Scaffolding]] notion that can be discarded once [[Division of the rational numbers]] is defined because we can show the notions are equivalent. In the above definition $\sim$  also denotes the following [[Equivalence relations|equivalence relation]]: $$ad=bc$$
 We don't consider $a//0$ to be a rational number.
 
-We can then define the following [[Isomorphisms|isomorphism]] between the [[Integers]] and the rationals in the fully extend the [[Rational numbers]]: $$n \equiv n//1$$
+We can then define the following [[Group isomorphism|isomorphism]] between the [[Integers]] and the rationals in the fully extend the [[Rational numbers]]: $$n \equiv n//1$$
 
 
 

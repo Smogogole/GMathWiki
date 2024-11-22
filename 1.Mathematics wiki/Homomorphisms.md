@@ -7,7 +7,7 @@ mathLink: auto
 Date created: 2023-12-06 21:53
 Tags: #Type/Object #Topic/Abstract_Algebra 
 
-Types: [[Isomorphisms]]
+Types: [[Group isomorphism]]
 Examples: _Not applicable_
 Construction: [[Group (category)]]
 Generalization: _Not applicable_
